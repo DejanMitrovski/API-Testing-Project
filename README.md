@@ -23,7 +23,6 @@ The project focuses on testing the Restful Booker REST API by validating authent
 - Test Cases
 - Postman Collection
 - Environment Variables
-- Bug Reports
 - Screenshots
 
 ---
@@ -67,7 +66,6 @@ The project focuses on testing the Restful Booker REST API by validating authent
 - Postman
 - REST APIs
 - Test Case Design
-- Bug Reporting
 - JSON
 - HTTP Methods
 - Environment Variables
