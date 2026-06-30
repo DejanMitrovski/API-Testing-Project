@@ -20,7 +20,6 @@ HTTP methods and status codes.
 Positive and negative testing.
 Test case design.
 Response validation.
-Bug reporting and documentation.
 
 1.2 Scope
 In Scope
@@ -122,7 +121,6 @@ The following artifacts will be produced:
 - Postman Collection (RestfulBooker.postman_collection.json)
 - Postman Environment (QA_Environment.json)‎
 - Test Cases (TestCases.xlsx or TestCases.md)
-- Bug Report (Bug_Report.md)
 - Collection Runner execution report/screenshot
 - GitHub repository containing all project files‫‍
 
@@ -190,19 +188,6 @@ API documentation accurately reflects expected behavior.
 Default credentials (admin/password123) remain valid for authentication.
 The test environment remains accessible throughout testing.
 
-9. Defect Management
-All discovered issues will be documented in a Bug Report using the following fields:
-
-Field    	Description
-Bug ID - Unique identifier
-Summary -Short defect description
-Severity - Critical / High / Medium / Low
-Priority - High / Medium / Low
-Preconditions - Required setup
-Steps to Reproduce - Detailed reproduction steps
-Expected Result	- Expected behavior
-Actual Result - Observed behavior
-Status - Open / Closed / Retest
 
 10. Success Criteria
 
@@ -212,7 +197,6 @@ All planned endpoints have been tested.
 At least 20–30 test cases have been executed.
 Postman assertions validate status codes and response content.
 Authentication and CRUD workflows are covered.
-Defects are documented professionally.
 All artifacts are uploaded to a public GitHub repository for portfolio purposes.
 
 Tools and Technologies Used
